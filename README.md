@@ -1,6 +1,6 @@
 # Android Battery Discharge Analyzer
 
-> Versão em português: [README.md](README.md)
+> Versão em português: [README.ptbr.md](README.ptbr.md)
 
 Educational pipeline: synthetic data → SQLite → analytical SQL → image reports.
 
